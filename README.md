@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+Source code is given with the built for production/ deployment. No need to run "npm run build"
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
